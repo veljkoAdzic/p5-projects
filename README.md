@@ -8,5 +8,5 @@ The projects:
 * [DVD bouncing block](https://veljkoadzic.github.io/p5-projects/dvd%20logo/)
 * [Game Of Life](https://veljkoadzic.github.io/p5-projects/game%20of%20life/)
 * [Perfect shifting maze generator](https://veljkoadzic.github.io/p5-projects/maze%20generator/)
-* [Sname game](https://veljkoadzic.github.io/p5-projects/snake/)
+* [Snake game](https://veljkoadzic.github.io/p5-projects/snake/)
 * [ASCII video effect](https://veljkoadzic.github.io/p5-projects/video%20ascii/) (requires camera)
