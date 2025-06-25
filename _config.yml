@@ -1,3 +1,6 @@
 remote_theme: itstorque/jekyll-shell-theme
+title_from_headings:
+  enabled: false
+  
 plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
