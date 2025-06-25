@@ -1,7 +1,6 @@
-# p5-projects
-Repo with all my p5.js projects from the years.
+All my p5.js projects from the years.
 
-The projects:
+Quick links to the projects:
 * [Ameba with Perlin noise](https://veljkoadzic.github.io/p5-projects/ameba/)
 * [Cardioid](https://veljkoadzic.github.io/p5-projects/cardioid/)
 * [Clock](https://veljkoadzic.github.io/p5-projects/clock/)
