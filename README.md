@@ -1,3 +1,4 @@
+# p5.js Projects
 All my p5.js projects from the years.
 
 Quick links to the projects:
@@ -9,3 +10,4 @@ Quick links to the projects:
 * [Perfect shifting maze generator](https://veljkoadzic.github.io/p5-projects/maze%20generator/)
 * [Snake game](https://veljkoadzic.github.io/p5-projects/snake/)
 * [ASCII video effect](https://veljkoadzic.github.io/p5-projects/video%20ascii/) (requires camera)
+* [Audio synthesis finals project](https://veljkoadzic.github.io/audio-synthesis-project/) (requires camera and audio)
