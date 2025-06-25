@@ -1,7 +1,15 @@
 html, body {
   margin: 0;
   padding: 0;
+  background-color: #141414;
 }
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
 canvas {
   display: block;
   margin-bottom: 10px;
