@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <script src="https://cdn.jsdelivr.net/npm/p5@1.11.11/lib/p5.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/p5@1.11.11/lib/addons/p5.sound.min.js"></script>
+    
+    
+    
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <meta charset="utf-8" />
+
+  </head>
+  <body>
+    <main>
+    </main>
+    
+    <form id="controls">
+
+      <div>
+        <p>Text to display:</p>
+        <textarea id="text-input" placeholder="Enter text..." rows="12"></textarea>
+      </div>      
+        <label class="slider-label">
+          <span>Gap duration:</span>
+          <input type="range" min="0" max="10" value="0" id="between-slider">
+        </label>
+
+        <label class="slider-label">
+        <span>Shown duration:</span>
+        <input type="range" min="1" max="10" value="1" id="shown-slider">
+      </label>
+
+      <div>
+        <button type="button" class="list-btn" onclick="saveAsGif()">Save as GIF</button>
+      </div>
+        
+    </form>
+    
+    <script src="controls.js"></script>
+    <script src="sketch.js"></script>
+  </body>
+</html>

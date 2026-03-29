@@ -11,3 +11,4 @@ Quick links to the projects:
 * [Snake game](https://veljkoadzic.github.io/p5-projects/snake/)
 * [ASCII video effect](https://veljkoadzic.github.io/p5-projects/video%20ascii/) (requires camera)
 * [Audio synthesis finals project](https://veljkoadzic.github.io/audio-synthesis-project/) (requires camera and audio)
+* [ARG Text effect](https://veljkoadzic.github.io/p5-projects/arg-text/)
